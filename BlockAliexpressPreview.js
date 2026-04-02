@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    // Your code here...
+    // TODO: The idea of the script is to block that annoying popup that shows up when hovering a posting on aliexpress
 })();
